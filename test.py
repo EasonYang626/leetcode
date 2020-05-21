@@ -1,4 +1,6 @@
 
-for i in range(10):
-    print(i)
-    i = i + 1
+a = "*****"
+b = a[8:]
+
+print(all(i == "*" for i in b))
+
