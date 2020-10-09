@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe757c6-a7a4-4702-8194-42c1fb78df2d" name="Default Changelist" comment="" />
+    <list default="true" id="5fe757c6-a7a4-4702-8194-42c1fb78df2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/53. 最大子序和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54. 螺旋矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55. 跳跃游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56. 合并区间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58. 最后一个单词的长度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59. 螺旋矩阵 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61. 旋转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62. 不同路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63. 不同路径 II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_N皇后 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/52_N皇后 II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +47,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="3d797ce0-e9fa-4dda-b7f8-a3049e51f78f" />
   <component name="ProjectId" id="1aHztQdUTLN49gaIZMDiaLvtKs3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
-    <configuration name="1_two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.63. 不同路径 II">
+    <configuration name="56. 合并区间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +74,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_two_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56. 合并区间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="58. 最后一个单词的长度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58. 最后一个单词的长度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="62. 不同路径" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/62. 不同路径.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="63. 不同路径 II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/63. 不同路径 II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,22 +173,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_two_sum" />
+        <item itemvalue="Python.63. 不同路径 II" />
+        <item itemvalue="Python.62. 不同路径" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.58. 最后一个单词的长度" />
+        <item itemvalue="Python.56. 合并区间" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -81,39 +199,113 @@
       <workItem from="1587823622882" duration="150000" />
       <workItem from="1588082563874" duration="70000" />
       <workItem from="1589374228299" duration="20000" />
+      <workItem from="1601875891005" duration="1296000" />
+      <workItem from="1602144592264" duration="106000" />
+      <workItem from="1602144727864" duration="5705000" />
+      <workItem from="1602153716283" duration="7857000" />
+      <workItem from="1602209443285" duration="11561000" />
+      <workItem from="1602242817338" duration="5437000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="309" key="GridCell.Tab.0.bottom" timestamp="1586410150257">
+    <state x="944" y="438" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602173447973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="944" y="438" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1602173447973" />
+    <state x="637" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602144628874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586410150257" />
-    <state width="1877" height="309" key="GridCell.Tab.0.center" timestamp="1586410150257">
+    <state x="637" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602144628874" />
+    <state width="2507" height="481" key="GridCell.Tab.0.bottom" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.0.center" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.0.left" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.0.right" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.1.bottom" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.1.center" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.1.left" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state width="2507" height="481" key="GridCell.Tab.1.right" timestamp="1602256679436">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1867" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602236235949" />
+    <state width="2507" height="481" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602256679436" />
+    <state x="649" y="257" key="SettingsEditor" timestamp="1602154967434">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="649" y="257" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1602154967434" />
+    <state x="902" y="420" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602256543571">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="902" y="420" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1602256543571" />
+    <state x="586" y="19" width="748" height="1002" key="find.popup" timestamp="1602226536487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="309" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586410150257" />
-    <state width="1877" height="309" key="GridCell.Tab.0.left" timestamp="1586410150256">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="309" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586410150256" />
-    <state width="1877" height="309" key="GridCell.Tab.0.right" timestamp="1586410150257">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="309" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586410150257" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1587823721541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587823721541" />
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1589374234181">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589374234181" />
+    <state x="586" y="19" width="748" height="1002" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602226536487" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$56__.coverage" NAME="56. 合并区间 Coverage Results" MODIFIED="1602213929155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$58__.coverage" NAME="58. 最后一个单词的长度 Coverage Results" MODIFIED="1602226798659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$62__.coverage" NAME="62. 不同路径 Coverage Results" MODIFIED="1602248922281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$54__.coverage" NAME="54. 螺旋矩阵 Coverage Results" MODIFIED="1602159070300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1_two_sum.coverage" NAME="1_two_sum Coverage Results" MODIFIED="1586410123057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$55__.coverage" NAME="55. 跳跃游戏 Coverage Results" MODIFIED="1602176318132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1602229264918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$63___II.coverage" NAME="63. 不同路径 II Coverage Results" MODIFIED="1602256529281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$53__.coverage" NAME="53. 最大子序和 Coverage Results" MODIFIED="1602147219558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
